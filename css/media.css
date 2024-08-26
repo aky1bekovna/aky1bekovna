@@ -1,0 +1,353 @@
+@media (max-width: 1200px) {
+  .i-box img {
+    width: 320px;
+  }
+  .i-box a {
+    font-size: 20px;
+  }
+  .m-box {
+    width: 300px;
+  }
+  .m-box-2 {
+    width: 300px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .logo h1 {
+    font-size: 25px;
+    margin-left: 10px;
+  }
+  nav {
+    gap: 30px;
+  }
+  nav a {
+    font-size: 16px;
+  }
+  .i-box img {
+    width: 300px;
+  }
+  .i-box a {
+    font-size: 19px;
+  }
+  .m-box p {
+    font-size: 15px;
+  }
+  .info img {
+    width: 450px;
+  }
+  .info-2 img {
+    width: 450px;
+  }
+  #Reverse {
+    padding: 50px 0;
+  }
+  .l-box {
+    width: 280px;
+  }
+  .blog img {
+    width: 350px;
+  }
+  .blog-text h1 {
+    font-size: 26px;
+    padding: 0 0 0 40px;
+  }
+
+  .blog-text button {
+    padding: 10px 20px;
+    font-size: 15px;
+  }
+  .footer-input h2 {
+    font-size: 23px;
+  }
+}
+
+@media (max-width: 1110px) {
+  .i-box img {
+    width: 300px;
+  }
+  #blog {
+    padding: 50px 0;
+  }
+  #Reverse {
+    padding: 40px 0;
+  }
+  .i-box img {
+    width: 300px;
+  }
+  .info img {
+    width: 450px;
+  }
+  .info-2 img {
+    width: 450px;
+  }
+  .m-box {
+    width: 280px;
+  }
+  .m-box-2 {
+    width: 280px;
+  }
+  .footer-logo h1 {
+    font-size: 24px;
+  }
+  .footer-logo img {
+    width: 33px;
+  }
+  ul li {
+    font-size: 15px;
+  }
+  .footer-input h2 {
+    font-size: 20px;
+  }
+  .logo h1 {
+    font-size: 24px;
+  }
+  nav {
+    gap: 30px;
+  }
+  nav a {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1080px) {
+  .i-box img {
+    width: 280px;
+  }
+  .m-box {
+    width: 260px;
+  }
+  .m-box-2 {
+    width: 260px;
+  }
+  .l-box {
+    width: 270px;
+    height: 250px;
+  }
+  .info-text h1 {
+    width: 420px;
+    font-size: 42px;
+  }
+  .info-text p {
+    padding-block: 20px;
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .info-text button {
+    padding: 13px 13px;
+    font-size: 15px;
+  }
+  .Reverse-text h1 {
+    font-size: 23px;
+    line-height: 60px;
+  }
+  .Reverse-text p {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  nav button {
+    font-size: 14px;
+    width: 80px;
+    height: 35px;
+  }
+  .logo img {
+    width: 25px;
+  }
+  .logo h1 {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+
+  .btn-2 {
+    font-size: 15px;
+    width: 80px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .i-box img {
+    width: 260px;
+  }
+  .m-box {
+    width: 240px;
+  }
+  .m-box-2 {
+    width: 240px;
+  }
+  .l-box {
+    width: 250px;
+    height: 250px;
+  }
+  .l-box p {
+    width: 220px;
+    font-size: 14px;
+  }
+  .i-box p {
+    font-size: 15px;
+    line-height: 40px;
+  }
+  .i-box a {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 935px) {
+  .i-box img {
+    width: 245px;
+  }
+  .m-box {
+    width: 230px;
+  }
+  .m-box-2 {
+    width: 230px;
+  }
+  .l-box {
+    width: 230px;
+    height: 230px;
+  }
+  nav {
+    gap: 25px;
+  }
+  nav a {
+    font-size: 14px;
+  }
+}
+@media (max-width: 920px) {
+  .Reverse-text h1 {
+    font-size: 18px;
+    line-height: 40px;
+  }
+  .Reverse-text p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 910px) {
+  .info-text h1 {
+    width: 350px;
+    font-size: 35px;
+  }
+  .info-text p {
+    padding-block: 15px;
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .info-text button {
+    padding: 9px 10px;
+    font-size: 13px;
+  }
+  .info img {
+    width: 370px;
+  }
+  .Reverse-text h1 {
+    font-size: 17px;
+    line-height: 40px;
+  }
+
+  .Reverse-text p {
+    font-size: 13px;
+  }
+  .A {
+    font-size: 25px;
+  }
+  .box {
+    width: 170px;
+    height: 170px;
+  }
+  .box img {
+    width: 45px;
+    padding: 30px 0;
+  }
+  .Reverse button {
+    font-size: 12px;
+    width: 120px;
+  }
+  .info-text .B {
+    font-size: 30px;
+    margin: 15px 0 0 0;
+  }
+  .info-text h2 {
+    font-size: 17px;
+  }
+  .bx p {
+    line-height: 15px;
+    font-size: 14px;
+  }
+  .info-2 img {
+    width: 370px;
+  }
+  .message h1 {
+    line-height: 50px;
+  }
+  .message p {
+    line-height: 25px;
+    font-size: 13px;
+  }
+  .message-text {
+    gap: 5px;
+  }
+  .m-t {
+    width: 300px;
+    padding-block: 30px;
+  }
+  .m-t img {
+    width: 250px;
+  }
+  .message button {
+    padding: 11px 16px;
+    font-size: 13px;
+  }
+  .i-box img {
+    width: 230px;
+  }
+  .m-box {
+    width: 210px;
+  }
+  .m-box-2 {
+    width: 210px;
+  }
+  .l-box {
+    width: 220px;
+    height: 220px;
+  }
+  .l-box p {
+    font-size: 13px;
+  }
+  .i-box p {
+    font-size: 13px;
+    line-height: 30px;
+  }
+  .i-box a {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .blog img {
+    width: 300px;
+  }
+  .blog-text h1 {
+    font-size: 22px;
+    padding: 0 0 0 50px;
+  }
+
+  .blog-text button {
+    padding: 8px 15px;
+    font-size: 13px;
+  }
+  .blog {
+    width: 670px;
+  }
+  .footer-logo h1 {
+    font-size: 20px;
+  }
+  .footer-logo img {
+    width: 27px;
+  }
+  ul li {
+    font-size: 13px;
+  }
+  .footer-input h2 {
+    font-size: 18px;
+    width: 250px;
+  }
+}
